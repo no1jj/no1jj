@@ -1,7 +1,7 @@
 Discord ID : no.1_jj
 ## 🔗 Discord Sever
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([[https://dicord.gg/pulservice])
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([[https://discord.gg/pulservice])
 
 
 ## 🚀 Language
